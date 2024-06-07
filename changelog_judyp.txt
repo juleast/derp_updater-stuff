@@ -1,0 +1,33 @@
+====================
+    06-04-2024     
+====================
+
+* device/lge/sdm845-common
+a25747d  sdm845-common: overlay: Place volume panel on the left by default  [Bruno Martins]
+
+
+====================
+    06-03-2024     
+====================
+
+====================
+    06-02-2024     
+====================
+
+* frameworks/opt/telephony
+fb9b4bf  Revert "Clear up the obsoleted cascading signal strength polling logic"  [Han Sol Jin]
+
+
+====================
+    06-01-2024     
+====================
+
+* device/lge/sdm845-common
+1cda742  Revert "sdm845-common: build LGE radio wrapper"  [Juleast]
+d1f34a7  Revert "sdm845-common: Drop radio interface to 1.4"  [Juleast]
+
+
+====================
+    05-31-2024     
+====================
+
