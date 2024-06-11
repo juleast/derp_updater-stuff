@@ -1,33 +1,31 @@
 ====================
-    06-05-2024     
+    06-11-2024     
 ====================
 
-* device/lge/sdm845-common
-a25747d  sdm845-common: overlay: Place volume panel on the left by default  [Bruno Martins]
-
-
-====================
-    06-04-2024     
-====================
+* Fix zram not mounting correctly
+  - Affected devices: judyln, judypn
 
 ====================
-    06-03-2024     
+    06-11-2024     
 ====================
 
-* frameworks/opt/telephony
-fb9b4bf  Revert "Clear up the obsoleted cascading signal strength polling logic"  [Han Sol Jin]
+* device/lge/judyln
+6811bb4  judyln: Update build fingerprint  [Juleast]
 
 
 ====================
-    06-02-2024     
+    06-10-2024     
 ====================
 
 ====================
-    06-01-2024     
+    06-09-2024     
 ====================
 
-* device/lge/sdm845-common
-1cda742  Revert "sdm845-common: build LGE radio wrapper"  [Juleast]
-d1f34a7  Revert "sdm845-common: Drop radio interface to 1.4"  [Juleast]
+====================
+    06-08-2024     
+====================
 
+====================
+    06-07-2024     
+====================
 
